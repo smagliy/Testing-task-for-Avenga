@@ -55,4 +55,3 @@ class ParserTripData(object):
 
 if __name__ == '__main__':
     ParserTripData().main()
-
